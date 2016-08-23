@@ -1,5 +1,15 @@
 
-[Adblock]
+[Adblock Plus 2.0]
+! Version: 201608221242
+! Title: EasyList
+! Last modified: 22 Aug 2016 12:42 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://easylist.to/
+! Licence: https://easylist.to/pages/licence.html
+! 
+! Please report any unblocked adverts or problems
+! in the forums (https://forums.lanik.us/)
+! or via e-mail (easylist.subscription@gmail.com).
 ! Homepage: http://ouo.io/InQqV
 ! Title: FMSF 2.0
 ! Expires: 1 day
